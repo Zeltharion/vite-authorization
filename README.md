@@ -1,6 +1,3 @@
-# For EgaisMaster
-## Front: Authorization 
-
 ### FW, Libs: 
 - [ChakraUI](https://chakra-ui.com/)
 - [ReactJS](https://react.dev/)
